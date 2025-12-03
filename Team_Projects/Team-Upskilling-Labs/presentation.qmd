@@ -1,5 +1,5 @@
 ---
-title: "Youth Skills"
+title: "Youth Skills in 2035: Where Will Future Jobs Come From?"
 subtitle: "Challenge 6 • World Bank Data Dive 2025"
 author: "Team Upskilling Labs"
 date: "2025"
@@ -11,11 +11,10 @@ format:
     footer: "DataDive 2025 - World Bank"
 ---
 
-## Youth Skills in 2035: Where Will Future Jobs Come From?
+## Team Upskilling Labs  
 
-Challenge 6 • World Bank Data Dive 2025  
-
-Team Upskilling Labs  
+:::: {.columns}
+::: {.column width="50%"}
 - Madhu Jalan  
 - Ashley Nalikka  
 - Sandra Moscoso  
@@ -23,6 +22,11 @@ Team Upskilling Labs
 - Chidubem Nwabunze  
 - Tiveeda Stovall  
 - Gareth Digby  
+:::
+::: {.column width="50%"}
+![Team Upskilling Labs](./images/IMG_6675.JPG)  
+:::
+::::
 
 ---
 
@@ -41,7 +45,7 @@ Team Upskilling Labs
 ## Our Data Approach
 
 :::: {.columns}
-::: {.column width="40%"}
+::: {.column width="33%"}
 List datasets merged:
 
 * UN population projections  
@@ -50,7 +54,7 @@ List datasets merged:
 * Projections to 2035  
 * Scenario 2 (medium variant)
 :::
-::: {.column width="60%"}
+::: {.column width="33%"}
 Outputs:
 
 * Absolute youth by skill  
@@ -59,15 +63,66 @@ Outputs:
 * Country leaders  
 * Risk outliers
 :::
-::::
+::: {.column width="33%"}
+Tools used:
 
+* ChatGPT
+* Claude
+* Databricks
+* Tableau
+:::
+::::
 
 ---
 
 ## The Global Pyramid of Skills (2035)
 
-Chart: **Global education pyramid**  
+![Global education pyramid](./images/slide_4.png)  
 Insight: Upper Secondary is the world’s dominant education level.
+
+---
+
+## Where Are Gender Gaps in Education Closing Fastest?  
+
+![Where Are Gender Gaps in Education Closing Fastest?](./images/slide5.png)  
+
+Gender parity in education is improving in most regions — but Sub-Saharan Africa and East Asia are falling behind, risking long-term inequality in future job markets.  
+
+---
+
+## Region Comparison: Post Secondary Educated Youth  
+
+![Region Comparison: Post Secondary Educated Youth](./images/slide6.png)  
+
+By 2035, East Asia & Pacific will have the world’s largest pool of post-secondary educated youth, while women will lead in North America, Latin America, Europe & Central Asia — and men remain ahead in South Asia, MENA, and Sub-Saharan Africa.  
+
+---
+
+## Master's or Higher Students in 2035  
+
+![Top 5 and Bottom 5 countries, largest number of Master's or Higher Students](./images/top5_bottom5_2035_vertical.png)
+
+---
+
+## Live Dashboards in Tableau  
+
+![Tableau live dashboard](./images/Screenshot%202025-12-03%20at%2017.42.21.png)
+
+---
+
+## So What? Policy Recommendations
+
+1. **Scale post-secondary vocational/digital tracks** in Africa \+ South Asia  
+2. **Invest in gender-equal talent pipelines** where women already lead  
+3. **Target global talent hubs** — Asia dominates the 2035 supply
+
+**“The future of jobs will be decided by where youth skills grow fastest — and our data shows exactly where that is.”**
+
+---  
+
+## ...To Be Done!! ...
+
+The following need their charts!
 
 ---
 
@@ -126,13 +181,3 @@ Insight:
 “Large populations ≠ large skilled populations.”
 
 ---
-
-## So What? Policy Recommendations
-
-1. **Scale post-secondary vocational/digital tracks** in Africa \+ South Asia  
-2. **Invest in gender-equal talent pipelines** where women already lead  
-3. **Target global talent hubs** — Asia dominates the 2035 supply
-
-**“The future of jobs will be decided by where youth skills grow fastest — and our data shows exactly where that is.”**
-
----  
