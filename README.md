@@ -58,6 +58,46 @@ Once deployed, your team's pages will be available at:
 The main page with all team links will be at:
 `https://datacommunitydc.github.io/DataDive25/index.html`
 
+### Contributing via Forks and Pull Requests
+
+To contribute your team's work to this repository:
+
+1. **Fork the Repository**: Click the "Fork" button on GitHub to create your own copy of the repository
+2. **Clone Your Fork**: `git clone https://github.com/YOUR-USERNAME/DataDive25.git`
+3. **Create a Branch**: Create a descriptive branch for your team's work:
+   ```bash
+   git checkout -b team/your-team-name
+   ```
+4. **Make Your Changes**: Add your team folder and content in `Team_Projects/`
+5. **Commit and Push**:
+   ```bash
+   git add .
+   git commit -m "Add [YourTeamName] project"
+   git push origin team/your-team-name
+   ```
+6. **Open a Pull Request**: Go to the original repository on GitHub and click "New Pull Request" to submit your changes for review
+
+#### Branching Workflow Diagram
+
+```mermaid
+gitGraph
+   commit id: "main"
+   commit id: "initial"
+   branch fork/your-fork
+   checkout fork/your-fork
+   commit id: "fork repo"
+   branch team/your-team-name
+   checkout team/your-team-name
+   commit id: "add team folder"
+   commit id: "add project.md"
+   commit id: "update content"
+   checkout fork/your-fork
+   merge team/your-team-name id: "merge branch"
+   checkout main
+   merge fork/your-fork id: "PR merged" type: HIGHLIGHT
+   commit id: "deployed!"
+```
+
 ### Getting Started
 
 1. Fork this repository
