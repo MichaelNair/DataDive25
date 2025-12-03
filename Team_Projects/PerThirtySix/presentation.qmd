@@ -22,7 +22,6 @@ Building thoughtful, data-driven explorations.
 
 - 6 governance dimensions (Government Effectiveness, Rule of Law, etc.)
 - 3 regulatory performance pillars (Framework, Services, Efficiency)
-- 200+ countries
 - Multiple outcome indicators (GDP, life expectancy, literacy, etc.)
 
 ## What We Built
@@ -37,7 +36,7 @@ All client-side, real-time, responsive.
 
 ## Let's Explore
 
-*[Demo the live site]*
+View the tool: [perthirtysix.com/tool/regulatory-jobs-data-explorer](https://perthirtysix.com/tool/regulatory-jobs-data-explorer)
 
 **Key features:**
 - Filter and sort countries by regulatory performance
@@ -45,8 +44,3 @@ All client-side, real-time, responsive.
 - Compare regions and income groups
 - Identify patterns and outliers
 
-## Questions?
-
-View the tool: [perthirtysix.com](https://perthirtysix.com)
-
-Contact us via LinkedIn or our personal sites.
